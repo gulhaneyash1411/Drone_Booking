@@ -165,9 +165,9 @@ const Book = () => {
                 <div className="target">
                     <div className="trgt">
                     <div className="card">
-                        <img src="" id='targetImage' alt="" />
+                        {/* <img src="" id='targetImage' alt="" />
                          <div className="event_name" id='targetName'></div>
-                        <div className="price" id='targetPrice'></div>
+                        <div className="price" id='targetPrice'></div> */}
                         </div>
                     </div>
                 </div>

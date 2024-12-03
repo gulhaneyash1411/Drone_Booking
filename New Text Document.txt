@@ -1,0 +1,8 @@
+1)
+npm cache clean --force
+rm -rf node_modules
+npm install
+
+
+2)
+npm start

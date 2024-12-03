@@ -1,6 +1,6 @@
 # Hotel Booking App
 
-In this repo you have found out how I made Hotel Booking app using React
+
 
 <h3>Things to look out for</h3>
 
